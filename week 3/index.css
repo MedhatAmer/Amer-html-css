@@ -1,0 +1,127 @@
+body{
+    background-size: cover;
+    background-color: seashell;
+}
+.head{
+    background-color: bisque;
+    width: 100%;
+    display: flex;
+}
+.funda{
+    float: left;
+    box-sizing: border-box;
+    width: auto;
+    padding-right: 3%;
+    padding-left: 3%;
+}
+.headh{
+    box-sizing: border-box;
+    width: auto;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+.menue{
+    
+    box-sizing: border-box;
+    
+    padding-left: 30%;
+    padding-right: 3%;
+}
+
+.poragraph{
+    width: 100%;
+    display: flex;
+    background-size: auto;
+    box-sizing: border-box;
+    background-color: #e5e59a;
+    border: 1px solid blue;
+}
+.main-photo{
+    padding-left: 30%;
+}
+
+.main-p{
+    padding: 12px;
+    font-size: 20px;
+    text-align: center;
+}
+.search{
+    display: flex;
+    
+}
+.buy{
+    list-style: none;
+    display: inline;
+    padding: 6px;
+    box-sizing: border-box;
+}
+.buy{
+    border: 1px blue;
+}
+.rent{
+    border: 1px blue;
+}
+.new-const{
+    border: 1px blue;
+}
+.box-inf{
+    width: 40%;
+    display: flex;
+    height: 15%;
+    padding-left: 200px;
+    
+}
+.autocomplete-input {
+    padding: 16px;
+    border: 1px solid blue;
+    height: 50px;
+    color: #0071B3;
+    width: 300px;
+    float: right;
+    
+}
+
+.head-north{
+    border: 1px blue;
+    width: 100%;
+    background-color: bisque;
+}
+.samples{
+    width: 100%;
+    display: flex;
+    
+    
+}
+.sample-one{
+    width: 33%;
+    float: left;
+    
+}
+ .sample-two{
+    width: 33%;
+     float: left
+}
+.sample-three{
+    width: 33%;
+     float: left
+}
+
+.social-media{
+    width: 100%;
+    padding: 20px;
+    background-color: bisque;
+}
+.media-one{
+    float: right;
+    padding-right: 100px;
+}
+
+.iframe{
+    width: 100%;
+    
+}
+#facebook{
+    font-size: 2em;
+}
+
+
